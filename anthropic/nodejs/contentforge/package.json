@@ -1,0 +1,35 @@
+{
+  "name": "contentforge",
+  "version": "1.0.0",
+  "description": "Multi-agent AI content creation pipeline",
+  "main": "dist/index.js",
+  "bin": {
+    "contentforge": "./dist/cli.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "dev": "ts-node src/cli.ts",
+    "start": "node dist/cli.js",
+    "clean": "rm -rf dist"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.24.3",
+    "@google/generative-ai": "^0.15.0",
+    "openai": "^4.52.7",
+    "chalk": "^5.3.0",
+    "commander": "^12.1.0",
+    "dotenv": "^16.4.5",
+    "ora": "^8.0.1",
+    "zod": "^3.23.8",
+    "table": "^6.8.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.10",
+    "@types/table": "^6.3.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.3"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

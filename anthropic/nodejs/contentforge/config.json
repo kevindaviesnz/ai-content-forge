@@ -1,0 +1,23 @@
+{
+  "defaultProvider": "gemini",
+  "agentProviders": {
+    "BriefAgent": null,
+    "ResearchAgent": null,
+    "OutlineAgent": null,
+    "DraftAgent": null,
+    "EditorAgent": null,
+    "PublishAgent": null
+  },
+  "models": {
+    "anthropic": "claude-sonnet-4-5-20250929",
+    "openai": "gpt-4o",
+    "gemini": "gemini-2.5-flash",
+    "grok": "grok-beta"
+  },
+  "maxRedraftAttempts": 3,
+  "retryConfig": {
+    "maxRetries": 3,
+    "initialDelayMs": 1000,
+    "maxDelayMs": 10000
+  }
+}

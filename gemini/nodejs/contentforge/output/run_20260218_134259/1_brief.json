@@ -1,0 +1,24 @@
+{
+  "topic": "The impact of the James Webb telescope on the discovery and our understanding of black holes",
+  "working_title": "James Webb Space Telescope: Unveiling New Insights into Black Holes",
+  "target_audience": "Science enthusiasts, astronomy students, researchers, and individuals interested in space exploration and astrophysics.",
+  "purpose": "To inform readers about the significant contributions of the James Webb Space Telescope (JWST) to black hole research and our evolving understanding of these cosmic phenomena.",
+  "angle": "Focus on specific discoveries, observational capabilities of JWST, and how these challenge or confirm existing theories about black hole formation, growth, and interaction with galaxies.",
+  "content_type": "Blog Post",
+  "tone": [
+    "Informative",
+    "Engaging"
+  ],
+  "key_points": [
+    "Introduction to JWST's unparalleled infrared capabilities for observing distant and obscured black holes.",
+    "Specific discoveries of early universe black holes and their unexpected prevalence/growth rates.",
+    "How JWST observations are refining our understanding of supermassive black hole-galaxy co-evolution.",
+    "Future implications of JWST data for theoretical models of black hole formation and cosmology."
+  ],
+  "what_to_avoid": "Overly technical jargon without clear explanations, speculative theories not yet supported by observational data, or extensive historical context of black hole theory unrelated to JWST's impact.",
+  "estimated_word_count": 1400,
+  "success_criteria": [
+    "Readers gain a clear and updated understanding of JWST's pivotal role in black hole research.",
+    "Content stimulates interest and encourages further exploration of JWST discoveries and astrophysics."
+  ]
+}

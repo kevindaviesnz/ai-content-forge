@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+anthropic/contentforge/node_modules
+gemini/contentforge/node_modules
+
+
+# Environment variables — never commit real keys
+.env
+anthropic/contentforge/.env
+gemini/contentforge/.env
+
+# Output reports
+report.txt
+*.report.txt
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+npm-debug.log*
+
+# Editor
+.vscode/
+.idea/

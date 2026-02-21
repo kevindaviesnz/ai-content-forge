@@ -1,0 +1,27 @@
+{
+  "topic": "The next phase of AI development",
+  "working_title": "Beyond GPT-4: Unpacking the Future Horizons of AI Development",
+  "target_audience": "Tech professionals, AI researchers, policymakers, and enthusiasts interested in the strategic direction and societal impact of advanced AI.",
+  "purpose": "To provide a comprehensive, forward-looking analysis of the next significant advancements in AI, exploring emerging technologies, ethical considerations, and potential societal shifts.",
+  "angle": "Focus on the transition from current large language models and narrow AI to more general, multimodal, and ethically integrated AI systems, highlighting both opportunities and challenges.",
+  "content_type": "Blog Post",
+  "tone": [
+    "Informative",
+    "Analytical",
+    "Forward-looking",
+    "Objective"
+  ],
+  "key_points": [
+    "Review current AI capabilities and their limitations (e.g., GPT-4, DALL-E).",
+    "Explore emerging paradigms: AGI pathways, multimodal AI, neuro-symbolic AI, and self-improving systems.",
+    "Discuss critical ethical, safety, and governance challenges associated with next-gen AI.",
+    "Project potential societal and economic impacts: job displacement, new industries, human-AI collaboration."
+  ],
+  "what_to_avoid": "Avoid overly technical jargon without clear explanations; refrain from sensationalist or fear-mongering language; do not oversimplify complex ethical dilemmas.",
+  "estimated_word_count": 1800,
+  "success_criteria": [
+    "The content offers fresh perspectives on the future of AI beyond mainstream discussions.",
+    "It provides a balanced view of both the promise and peril of advanced AI.",
+    "It engages readers to think critically about the implications of these developments."
+  ]
+}

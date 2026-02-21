@@ -1,0 +1,28 @@
+{
+  "topic": "The future of quantum computing in medicine",
+  "working_title": "Quantum Computing in Medicine: Revolutionizing Healthcare's Future",
+  "target_audience": "Medical researchers, pharmaceutical scientists, healthcare innovators, technology enthusiasts, and investors interested in cutting-edge medical advancements.",
+  "purpose": "To educate the audience on the potential impact and applications of quantum computing in medicine, inspire discussion, and highlight future opportunities and challenges.",
+  "angle": "Explore the specific applications of quantum computing in drug discovery, personalized medicine, diagnostics, and medical imaging, while also addressing the current state, challenges, and long-term potential.",
+  "content_type": "Blog Post",
+  "tone": [
+    "Informative",
+    "Visionary",
+    "Authoritative",
+    "Optimistic"
+  ],
+  "key_points": [
+    "Introduction to Quantum Computing and its foundational principles relevant to medical applications.",
+    "Current limitations of classical computing in complex medical problems (e.g., molecular modeling, drug interactions).",
+    "Specific applications: Drug discovery & development (e.g., molecular simulation, protein folding), Personalized medicine (e.g., genomic analysis, treatment optimization), Advanced diagnostics & imaging.",
+    "Challenges and hurdles: Hardware development, algorithm complexity, data security, ethical considerations, and the timeline to widespread adoption.",
+    "The long-term vision: How quantum computing could fundamentally transform healthcare delivery and patient outcomes."
+  ],
+  "what_to_avoid": "Over-promising immediate breakthroughs, overly technical jargon without explanation, or downplaying the significant challenges and time investment required for practical implementation.",
+  "estimated_word_count": 1500,
+  "success_criteria": [
+    "High engagement (shares, comments) from the target audience.",
+    "Positioning the brand/author as a thought leader in future medical technologies.",
+    "Generating interest for further research or discussion on the topic."
+  ]
+}
