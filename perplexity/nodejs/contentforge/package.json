@@ -1,0 +1,22 @@
+{
+  "name": "contentforge",
+  "version": "1.0.0",
+  "description": "Multi-agent AI content creation pipeline",
+  "type": "module",
+  "bin": {
+    "contentforge": "./cli.js"
+  },
+  "scripts": {
+    "start": "node cli.js run",
+    "dev": "node cli.js run 'AI agents 2026'",
+    "test": "node cli.js agent brief 'test'"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "chalk": "^5.3.0",
+    "dotenv": "^16.0.3",
+    "fs-extra": "^11.1.1",
+    "openai": "^4.0.0",
+    "ora": "^6.1.2"
+  }
+}

@@ -1,13 +1,13 @@
 # Dependencies
 node_modules/
-anthropic/contentforge/node_modules
-gemini/contentforge/node_modules
-
+anthropic/nodejs/contentforge/node_modules
+gemini/nodejs/contentforge/node_modules
+perplexity/nodejs/contentforge/node_modules
 
 # Environment variables — never commit real keys
 .env
-anthropic/contentforge/.env
-gemini/contentforge/.env
+anthropic/nodejs/contentforge/.env
+gemini/nodejs/contentforge/.env
 
 # Output reports
 report.txt

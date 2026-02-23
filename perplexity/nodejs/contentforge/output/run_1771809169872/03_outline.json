@@ -1,0 +1,22 @@
+{
+  "topic": "Demo",
+  "working_title": "The Future of Demo",
+  "target_audience": "tech professionals",
+  "purpose": "educate",
+  "angle": "2026 roadmap",
+  "content_type": "blog_post",
+  "tone": [
+    "informative",
+    "professional"
+  ],
+  "key_points": [
+    "Trend 1",
+    "Trend 2",
+    "Trend 3"
+  ],
+  "estimated_word_count": 1500,
+  "success_criteria": [
+    "actionable",
+    "evidence-based"
+  ]
+}
